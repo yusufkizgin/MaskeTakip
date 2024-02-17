@@ -15,6 +15,6 @@ PttManager pttManager = new PttManager(new PersonManager());
 Person person1 = new Person();
 person1.FirstName = "Yusuf";
 person1.LastName = "Kızgın";
-person1.NationalIdentity = 13565461811;
+person1.NationalIdentity = 13456461811;
 person1.DateOfBirthYear = 2004;
 pttManager.GiveMask(person1);
